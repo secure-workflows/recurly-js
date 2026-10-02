@@ -72,7 +72,7 @@
     "esbuild": "^0.28.0",
     "eslint": "^6.8.0",
     "eslint-plugin-no-only-tests": "^3.3.0",
-    "geckodriver": "^3.2.0",
+    "geckodriver": "^7.0.0",
     "glob": "^7.1.6",
     "lodash.after": "^4.0.4",
     "lodash.foreach": "^4.5.0",
@@ -86,6 +86,6 @@
     "typescript": "^5.0.4",
     "wdio-chromedriver-service": "^8.1.1",
     "wdio-edgedriver-service": "^3.0.3",
-    "wdio-geckodriver-service": "^4.1.1"
+    "wdio-geckodriver-service": "^5.0.2"
   }
 }
